@@ -1,5 +1,5 @@
 # LancadordeDados
-Um lançador de Dados de 1 a 6 em Kotlin
+Um lançador de Dados de 1 a 6 em Kotlin \n
 Resposta
 1- O problema de não ter dados para jogar 
 2- Simples seria comprar dados e jogar
