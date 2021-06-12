@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/registerUserFragment">
+
+    <fragment
+        android:id="@+id/registerUserFragment"
+        android:name="com.example.lancadordedados.RegisterUserFragment"
+        android:label="RegisterUserFragment" />
+    <fragment
+        android:id="@+id/mainActivityFragment"
+        android:name="com.example.lancadordedados.MainActivityFragment"
+        android:label="MainActivityFragment" />
+</navigation>
